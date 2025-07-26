@@ -106,8 +106,10 @@ body img{
     
 }
 .photo{
-    width:350px;
+    width:450px;
+    height:450px;
     border-radius: 50%;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
 
 }
 
@@ -203,7 +205,7 @@ body img{
     border-radius: 10px;
     box-sizing: border-box;
     transform:scale(0.9);
-    color: rgb(137, 134, 134);
+    color: rgb(74, 73, 73);
     
 }
 html{
@@ -364,6 +366,7 @@ html{
     
 .photo{
     width:250px;
+    height: 250px;
     border-radius: 50%;
 
 }
